@@ -1,5 +1,6 @@
 <script setup>
 defineProps({
+    id:Number,
     name:String,
     description:String,
     price:Number,

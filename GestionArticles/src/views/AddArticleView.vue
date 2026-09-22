@@ -5,6 +5,6 @@ import FormulaireArticle from '../components/FormulaireArticle.vue'
 <template>
   <main>
     <h1>Ajouter un article</h1>
-    <FormulaireArticle />
+    <FormulaireArticle/>
   </main>
 </template>
